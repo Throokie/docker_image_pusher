@@ -7,3 +7,4 @@ xhofe/alist:latest
 halohub/halo-pro:2.17.2
 mysql
 postgresql
+
