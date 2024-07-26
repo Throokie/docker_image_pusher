@@ -5,4 +5,4 @@
 #支持指定架构 
 #--platform=linux/arm64 xiaoyaliu/alist
 #halohub/halo-pro:2.17.2
---platform=linux/arm64 elestio/lobe-chat:v1.6.6
+--platform=linux/arm64 elestio/lobe-chat:v1.6.11
