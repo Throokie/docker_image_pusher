@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #halohub/halo-pro:2.17.2
 --platform=linux/arm64 lobehub/lobe-chat:v1.6.11
+--platform=linux/arm64 yidadaa/chatgpt-next-web:v2.13.1
