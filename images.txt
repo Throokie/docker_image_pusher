@@ -7,3 +7,5 @@
 #halohub/halo-pro:2.17.2
 --platform=linux/arm64 lobehub/lobe-chat:v1.6.11
 --platform=linux/arm64 yidadaa/chatgpt-next-web:v2.13.1
+--platform=linux/arm64 allinurl/goaccess:1.9.3
+
